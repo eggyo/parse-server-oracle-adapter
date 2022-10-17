@@ -13,9 +13,9 @@
   },
   "dependencies": {
     "npmlog": "^4.1.2",
-    "oracledb": "^3.1.2",
-    "parse": "^1.11.1",
-    "parse-server": "^2.8.4",
+    "oracledb": "^5.5.0",
+    "parse": "3.4.2",
+    "parse-server": "5.2.1",
     "url": "^0.11.0"
   },
   "devDependencies": {
